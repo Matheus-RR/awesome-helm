@@ -101,6 +101,8 @@ Helm-related tools
 * [werf](https://werf.io/) - A CLI tool for implementing CI/CD best practices using an extended version of Helm under the hood for deployment
 
 
+* [Helm Chart Compatibility Checker](https://releaserun.com/tools/helm-checker/) - Free browser-based tool to check Helm chart API version compatibility with your target Kubernetes version. Catches deprecated and removed APIs before deployment.
+
 Community
 ---------
 Forums, discussion groups, SO tags.
